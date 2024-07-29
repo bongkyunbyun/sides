@@ -1,4 +1,4 @@
-package com.kiosk.kiosk.entity;
+package com.side.side.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

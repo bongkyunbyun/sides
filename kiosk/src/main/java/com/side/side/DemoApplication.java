@@ -1,4 +1,4 @@
-package com.kiosk.kiosk;
+package com.side.side;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

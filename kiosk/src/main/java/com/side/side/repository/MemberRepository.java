@@ -1,8 +1,8 @@
-package com.kiosk.kiosk.repository;
+package com.side.side.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.kiosk.kiosk.entity.MemberEntity;
+import com.side.side.entity.MemberEntity;
 
 public interface MemberRepository extends JpaRepository<MemberEntity, Long>{
 

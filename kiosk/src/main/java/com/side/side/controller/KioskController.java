@@ -1,4 +1,4 @@
-package com.kiosk.kiosk.controller;
+package com.side.side.controller;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.kiosk.kiosk.entity.MemberEntity;
-import com.kiosk.kiosk.repository.MemberRepository;
+import com.side.side.entity.MemberEntity;
+import com.side.side.repository.MemberRepository;
 
 @Controller
 public class KioskController {
