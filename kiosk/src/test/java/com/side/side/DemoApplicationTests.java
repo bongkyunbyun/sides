@@ -1,4 +1,4 @@
-package com.kiosk.kiosk;
+package com.side.side;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
